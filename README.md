@@ -4,7 +4,7 @@ A simple car game made with pygame module
 
 ## Screenshot
 
-![Game screenshot](images/game.jpg)
+![Game screenshot](imgs/game.jpg)
 
 ## Features
 - Includes levels
