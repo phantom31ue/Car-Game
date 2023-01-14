@@ -4,11 +4,7 @@ A simple car game made with pygame module
 
 ## Screenshot
 
-<!-- ![Morning screenshot](images/Weather-app_1.png)
-
-![Night screenshot](images/Weather-app_2.png)
-
-![Subscription page screenshot](images/Weather-app_3.png) -->
+<!-- ![Game screenshot](images/game.jpg)
 
 ## Features
 - Includes levels
